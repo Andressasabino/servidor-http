@@ -1,0 +1,7 @@
+passo a passo
+
+1. bota o código
+2. busca o seu ip com o ipconfig
+3. pega o ip q tá em ethernet depois ipv4
+4. coloca na url do nagevador
+Se não der certo olhe se a porta é 8000.
